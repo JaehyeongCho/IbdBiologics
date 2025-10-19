@@ -1,0 +1,12 @@
+webApiCohortId,cohortId,cohortName
+356,356,[JC] CD (decided as the final diagnosis)
+357,357,[JC] UC (decided as the final diagnosis)
+358,358,[JC] Biologics in CD (decided as the final diagnosis)
+359,359,[JC] Biologics in UC (decided as the final diagnosis)
+360,360,[JC] Anti-TNF agents in CD (decided as the final diagnosis)
+361,361,[JC] Ustekinumab in CD (decided as the final diagnosis)
+362,362,[JC] Vedolizumab in CD (decided as the final diagnosis)
+363,363,[JC] Anti-TNF agents in UC (decided as the final diagnosis)
+364,364,[JC] Ustekinumab in UC (decided as the final diagnosis)
+365,365,[JC] Vedolizumab in UC (decided as the final diagnosis)
+370,370,[JC] clostridioides difficile infection

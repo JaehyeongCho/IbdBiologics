@@ -1,0 +1,15 @@
+﻿label,analysisId,covariateIds
+Age,2,
+Index year,6,
+Gender: female,1,8532001
+Weight,705,3025315705
+C-reactive protein,705,3020460705
+Albumin,705,3024561705
+Hemoglobin,705,3000963705
+Platelets,705,3007461705
+Fecal calprotectin,705,3048689705
+Aminosalicylates,302,21600662302
+Corticosteroids,302,21602728;21600652
+Immunomodulator,302,35807403
+tofacitinib,302,42904205
+CCI,901,
